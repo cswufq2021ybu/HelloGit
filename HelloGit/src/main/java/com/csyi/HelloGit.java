@@ -15,6 +15,7 @@ public class HelloGit {
         System.out.println("更新5 ======");
         System.out.println("更新5+++++ooooooo");
         System.out.println("在线编辑");
+        System.out.println("测试SSH");
 
         for(int i=0;i<5;i++){
             sum += i;
